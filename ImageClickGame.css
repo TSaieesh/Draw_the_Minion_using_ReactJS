@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(120deg,rgba(12, 12, 223, 0.812),rgba(221, 16, 221, 0.285),rgba(225, 179, 187));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    margin-top: 30px;
+    color: gold;
+    font-weight: bolder;
+    text-shadow: 10px 10px 10px black;
+}
+img{
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 15px black;
+    margin: 20px;
+}
+button{
+    background-color: grey;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px white;
+}
+.green{
+    color: green;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px greenyellow;
+    margin: 2px;
+}
+h3{
+    color: red;
+    margin: 25px;
+    text-shadow: 10px 5px 15px orange;
+}
+.score{
+    margin: 20px;
+    font-size: 18px;
+    color: green;
+    text-shadow: 10px 5px 15px greenyellow;
+    font-weight: bolder;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: rgba(255, 166, 0, 0.927);
+}
+p{
+    font-size: 18px;
+    margin: 20px;
+}
+.vict{
+    color: green;
+    font-weight: bolder;
+}
+.fail{
+    color: red;
+    font-weight: bolder;
+}
